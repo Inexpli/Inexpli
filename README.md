@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A future (Full stack?) developer from Poland</h3>
 
+- ⚡ I'm addicted to tea
+
 - 🔭 I’m currently working on [Django WebApplication](https://github.com/Inexpli/Django-WebApp)
 
 - 🌱 I’m currently learning **Django and Python**
@@ -11,7 +13,6 @@
 
 - 📫 **DM me discord Eldzej02#3938**
 
-- ⚡ I'm addicted to tea
 
 
 <h3 align="left">Languages and Tools:</h3>
