@@ -3,11 +3,9 @@
 
 - ⚡ I'm addicted to tea
 
-- 🔭 I’m currently working on [Django WebApplication](https://github.com/Inexpli/Django-WebApp)
+- 🔭 I’m currently working on [eCommerce Store](https://github.com/Inexpli/eCommerce-Store)
 
 - 🌱 I’m currently learning **Django and Python**
-
-- 👯 I’m looking to collaborate on **Some intersting projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Inexpli?tab=repositories](https://github.com/Inexpli?tab=repositories)
 
