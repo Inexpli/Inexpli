@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Inexpli?tab=repositories](https://github.com/Inexpli?tab=repositories)
 
-- 📫 **DM me discord Eldzej02#3938**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
