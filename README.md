@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
-<h3 align="center">A future (Full stack?) developer from Poland</h3>
 
 - ⚡ I'm addicted to tea
 
