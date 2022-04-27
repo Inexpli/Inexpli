@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 
-- ⚡ I'm addicted to tea
+- ⚡ Addicted to tea
 
 - 🔭 I’m currently working on [eCommerce Store](https://github.com/Inexpli/eCommerce-Store)
 
-- 🌱 I’m currently learning **Django and Python**
+- 🌱 I'm currently doing my best in **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Inexpli?tab=repositories](https://github.com/Inexpli?tab=repositories)
 
