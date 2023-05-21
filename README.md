@@ -2,7 +2,7 @@
 
 - ⚡ Addicted to tea
 
-- 🔭 I’m currently working on [eCommerce Store](https://github.com/Inexpli/eCommerce-Store)
+- 🔭 I’m currently working on Web Scraper
 
 - 🌱 I'm currently doing my best in **Machine Learning**
 
